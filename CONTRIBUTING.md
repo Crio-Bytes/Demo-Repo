@@ -25,7 +25,7 @@ Kindly refer the aforementioned [getting started guide](https://docs.google.com/
 
 #### Note for issue creation and PR proposals
 
-Kindly utilise the templates provided in the `.github` directory of the main branch to create relative issues and PRs. You can also go adventurous if you have something fun in your mind, but kindly maintain a similar workflow by taking the already available templates as a reference.
+Kindly utilise the templates provided in the `.github` directory of the master branch to create relative issues and PRs. You can also go adventurous if you have something fun in your mind, but kindly maintain a similar workflow by taking the already available templates as a reference.
 
 For working on a brand new MicroByte, utilise the issue template `Add MicroByte` using the GitHub UI.
 
@@ -54,10 +54,10 @@ $ git remote add upstream https://github.com/Crio-Bytes/Demo-Repo.git
 # - OR -
 $ git remote add upstream git@github.com:Crio-Bytes/Demo-Repo.git
 
-## Syncing with upstream/main branch
+## Syncing with upstream/master branch
 $ git fetch upstream
-$ git checkout main
-$ git merge upstream/main
+$ git checkout master
+$ git merge upstream/master
 
 ## To create and shift to working branch
 $ git checkout -b <name>/<microbyte-name|issue>/{<add|update|additional-fixes>}
@@ -93,10 +93,10 @@ $ git push origin <branch-name>
 **</> After PR Merge/Close </>**
 
 ```bash
-## Syncing with upstream/main branch
+## Syncing with upstream/master branch
 $ git fetch upstream
-$ git checkout main
-$ git merge upstream/main
+$ git checkout master
+$ git merge upstream/master
 
 ## Deleting the branch in local repository
 # If PR is merged
