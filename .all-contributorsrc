@@ -15,6 +15,15 @@
         "doc",
         "maintenance"
       ]
+    },
+    {
+      "login": "kiranbeeyes",
+      "name": "kiranbeeyes",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/55537079?v=4",
+      "profile": "https://github.com/kiranbeeyes",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
