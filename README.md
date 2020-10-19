@@ -2,7 +2,13 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-# Dummy README :smile_cat:
+# README :smile_cat:
+
+This repository serves the sole purpose for integration testing of new workflows, bots, etc. for the organisation. 
+
+Further more, it also contains resources for maintainers, like guidelines to be followed regarding certain workflows, MicroByte showcase template(s), etc.
+
+
 
 
 ## Contributors ✨
