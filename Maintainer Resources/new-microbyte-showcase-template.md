@@ -28,7 +28,7 @@ Brief description.
 
 Actively looking for contributors. Learners can do this and creators can do this. 
 
-**Please raise an issue first and then submit your PRs to that issue only.**
+**Please raise an issue first and then submit your PRs to that issue.**
 
 #learnbydoing #microbyte-showcase
 
