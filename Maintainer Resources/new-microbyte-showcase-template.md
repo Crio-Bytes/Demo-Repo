@@ -1,4 +1,4 @@
-<sup>All creators who have their PRs accepted and merged can show off their contribution in the microbyte-showcase channel on Slack. This will help the other participants by keeping them updated. Also, kindly refrain from spamming the channel with every minor contribution you may make. Please give a brief compiled overview of your contribution. </sup>
+<sup>All creators who have their PRs accepted and merged can show off their contribution in the microbyte-showcase channel on our community's [Slack workspace](criodo-world.slack.com). This will help the other participants by keeping them updated. Also, kindly refrain from spamming the channel with every minor contribution you may make. Please give a brief compiled overview of your contribution. </sup>
 
 
 
