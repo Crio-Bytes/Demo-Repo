@@ -24,6 +24,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "icy-meteor",
+      "name": "Rahul Suresh",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/22114682?v=4",
+      "profile": "https://linkedin.com/in/rahulsuresh98",
+      "contributions": [
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
