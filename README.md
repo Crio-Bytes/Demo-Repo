@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # README :smile_cat:
@@ -24,6 +24,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/kiranbeeyes"><img src="https://avatars3.githubusercontent.com/u/55537079?v=4" width="100px;" alt=""/><br /><sub><b>kiranbeeyes</b></sub></a><br /><a href="https://github.com/Crio-Bytes/Demo-Repo/commits?author=kiranbeeyes" title="Code">💻</a></td>
     <td align="center"><a href="https://linkedin.com/in/rahulsuresh98"><img src="https://avatars2.githubusercontent.com/u/22114682?v=4" width="100px;" alt=""/><br /><sub><b>Rahul Suresh</b></sub></a><br /><a href="https://github.com/Crio-Bytes/Demo-Repo/commits?author=icy-meteor" title="Tests">⚠️</a></td>
     <td align="center"><a href="https://kevinpaulose05.github.io/"><img src="https://avatars3.githubusercontent.com/u/64629493?v=4" width="100px;" alt=""/><br /><sub><b>Kevin Paulose</b></sub></a><br /><a href="https://github.com/Crio-Bytes/Demo-Repo/commits?author=Kevinpaulose05" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://www.mapcoronacases.xyz"><img src="https://avatars0.githubusercontent.com/u/55776181?v=4" width="100px;" alt=""/><br /><sub><b>Rohit S</b></sub></a><br /><a href="https://github.com/Crio-Bytes/Demo-Repo/commits?author=itherohit" title="Code">💻</a> <a href="#content-itherohit" title="Content">🖋</a> <a href="#ideas-itherohit" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/Crio-Bytes/Demo-Repo/commits?author=itherohit" title="Documentation">📖</a></td>
   </tr>
 </table>
 
