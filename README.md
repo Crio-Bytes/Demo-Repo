@@ -2,6 +2,8 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+[![Slack](https://img.shields.io/badge/Slack-criodo--world-%237595c7?style=flat-square)](https://join.slack.com/t/criodo-world/shared_invite/zt-jbe8xcec-KjZAgZ~e1vkN~TpVJO1~ig)
+
 # README :smile_cat:
 
 This repository serves the sole purpose for integration testing of new workflows, bots, etc. for the organisation. 
